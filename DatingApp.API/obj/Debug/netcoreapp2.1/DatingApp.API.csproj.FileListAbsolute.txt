@@ -1,0 +1,14 @@
+/Users/vishnukalakota/Dating-App/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/Users/vishnukalakota/Dating-App/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/Users/vishnukalakota/Dating-App/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/Users/vishnukalakota/Dating-App/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/vishnukalakota/Dating-App/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/Users/vishnukalakota/Dating-App/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/Users/vishnukalakota/Dating-App/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/vishnukalakota/Dating-App/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/Users/vishnukalakota/Dating-App/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/Users/vishnukalakota/Dating-App/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/Users/vishnukalakota/Dating-App/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/Users/vishnukalakota/Dating-App/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/vishnukalakota/Dating-App/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/vishnukalakota/Dating-App/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
